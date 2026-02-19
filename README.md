@@ -183,9 +183,6 @@ The analysis follows a comprehensive big data processing pipeline:
 - **Geographic Intelligence**: Location-based risk patterns discovered
 - **Data-Driven Decisions**: Evidence-based fleet management strategies
 
-## 📞 Contact
-
-For questions or collaborations, please reach out via LinkedIn.
 
 ---
 
